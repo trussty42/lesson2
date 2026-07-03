@@ -19,24 +19,15 @@
 ## Структура проекта
 
 ```
-regression_basics/
-│
+homework/
 ├── data/
-│   ├── train.csv
-│   └── insurance.csv
-│
 ├── models/
-│   ├── titanic_logistic.pth
-│   └── insurance_linear.pth
-│
 ├── plots/
-│   └── optimizer_comparison.png
-│
 ├── homework_model_modification.py
 ├── homework_datasets.py
 ├── homework_experiments.py
-├── requirements.txt
-└── README.md
+requirements.txt
+README.md
 ```
 
 ---
